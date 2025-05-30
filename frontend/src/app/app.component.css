@@ -1,0 +1,5 @@
+main {
+  min-height: calc(100vh - 64px - 112px); /* Adjust for navbar (64px) and footer (112px) */
+  display: flex;
+  flex-direction: column;
+}
